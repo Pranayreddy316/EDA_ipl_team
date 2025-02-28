@@ -1,7 +1,6 @@
 # IPL Team Selection Using Data Analysis 🏏
 ## Overview
-This project analyzes cricket player performance over the last four years (2021-2024) to create an optimal IPL playing XI. It uses Python, Pandas, NumPy, Matplotlib, and Seaborn for data processing, analysis, and visualization. The selection is based on key performance metrics like batting average, strike rate, economy rate, and wickets taken.
-
+This project builds an optimal IPL playing XI by analyzing cricket player performance from the last four years (2021-2024). The data is scraped from ESPN using BeautifulSoup, processed with Pandas, and visualized with Matplotlib & Seaborn. The team selection is based on key performance metrics like batting average, strike rate, economy rate, and wickets taken.
 ## Features: 
 **Data Preprocessing:** Cleaning and organizing player statistics.<br>
 **Exploratory Data Analysis (EDA):** Visualizing performance trends.<br>
