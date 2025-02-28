@@ -8,4 +8,4 @@ This project analyzes cricket player performance over the last four years (2021-
 **Selection Criteria:** Filtering the best players based on consistency, impact, and efficiency.<br>
 **Team Formation:** Balancing batsmen, bowlers, all-rounders, and wicketkeepers.<br>
 **Visual Insights:** Graphical representations of top performers.<br>
-**Technologies Used**:Python,Pandas, NumPy (Data manipulation),Matplotlib, Seaborn (Data visualization).<br>
+**Technologies Used**:Python,Pandas, NumPy (Data manipulation),Matplotlib, Seaborn (Data visualization),BeautifulSoup (Web scraping).<br>
