@@ -8,3 +8,6 @@ This project builds an optimal IPL playing XI by analyzing cricket player perfor
 **Team Formation:** Balancing batsmen, bowlers, all-rounders, and wicketkeepers.<br>
 **Visual Insights:** Graphical representations of top performers.<br>
 **Technologies Used**:Python,Pandas, NumPy (Data manipulation),Matplotlib, Seaborn (Data visualization),BeautifulSoup (Web scraping).<br>
+
+**Note:**
+**For Visualtizations open ipl.ppts file**
