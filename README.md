@@ -10,4 +10,4 @@ This project builds an optimal IPL playing XI by analyzing cricket player perfor
 **Technologies Used**:Python,Pandas, NumPy (Data manipulation),Matplotlib, Seaborn (Data visualization),BeautifulSoup (Web scraping).<br>
 
 **Note:**
-**For Visualtizations open ipl.ppts file**
+**For Visualtizations open IPL.pptx file**
